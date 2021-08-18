@@ -1,0 +1,39 @@
+
+.page-title {        
+	padding: 15px;
+	background: black;
+	color: #fff;
+	padding: 16px 30px;
+	min-width: 100%;
+	margin: -20px -25px 10px;
+	border-radius: 3px 3px 0 0;
+}
+.page-title h4 {
+	margin: auto;
+	padding: 10px;
+}
+ .page-title .btn {
+	float: right;
+	color: #fff;
+}
+.page-title .btn i {
+	float: left;
+	font-size: 30px;
+} 
+.page-title .btn span {
+	float: left;
+	margin-top: 2px;
+	margin-left: 10px;
+}
+.form-input-error {
+	color: red;
+}
+.invalid {
+	border: 1px solid red;
+}
+.checked {
+	color: orange;
+}
+.unchecked {
+	color: white;
+}
